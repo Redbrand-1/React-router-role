@@ -1,1 +1,1 @@
-Roles and bloced route
+Roles and route blocking
